@@ -29,8 +29,10 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - [Alzheimer’s Biomarker Diagnostic System](#)
   - **Role:** Design, Development, Lead
   - **Key Areas:** PET Scans, Statistical Analysis, Multilayer Network Science
+- [Chronic Pain Diagnostic Models](#)
+  - **Role:** Design, Development, Mentoring
+  - **Key Areas:** fMRI time series images, Computer Vision,  ML models, Hyper Parameter Tuning, DL Models
 
-- Developed [Chronic Pain Diagnostic Models](#) using ML/DL techniques, significantly improving the speed and accuracy of chronic pain identification.
 
 
 ### Karunya University | Computer Scientist/ Professor
