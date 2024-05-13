@@ -38,6 +38,7 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
  - [Report Generator RAG LLM model (Physician intial Report)](#)
   - **Role:** Design, Development, Lead
   - **Key Areas:** fMRI time series images, Computer Vision, RAG, Med-PaLM, Hybrid(Multimodel), Signal Processing
+    
 ### Karunya University | Computer Scientist/ Professor
 **July 2013 – March 2022, India**
 - Innovated social network algorithms enhancing seed selection and community detection, referred by global researchers.
