@@ -26,7 +26,10 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 ## AI Projects
 ### University of North Carolina | Sr. Computer Scientist
 **March 2022 – Present, Chapel Hill, NC, USA**
-- Led the development of [Alzheimer’s Biomarker Diagnostic System](#), enhancing diagnostic accuracy using advanced network neuroscience and multilayer networks.
+- [Alzheimer’s Biomarker Diagnostic System](#)
+  - **Role:** Design, Development, Lead
+  - **Key Areas:** PET Scans, Statistical Analysis, Multilayer Network Science
+
 - Developed [Chronic Pain Diagnostic Models](#) using ML/DL techniques, significantly improving the speed and accuracy of chronic pain identification.
 
 
