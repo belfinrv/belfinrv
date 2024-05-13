@@ -35,7 +35,7 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - [Epilepsy brain components classifier](#)
   - **Role:** Design, Development, Lead
   - **Key Areas:** fMRI time series images, Computer Vision,  ML models, DL Models, Hybrid(Multimodel), Signal Processing
- - [Report Generator RAG LLM model (Physician intial Report)](#)
+ - [Report Generator RAG LLM model (Physician draft report after image classification)](#)
   - **Role:** Design, Development, Lead
   - **Key Areas:** fMRI time series images, Computer Vision, RAG, Med-PaLM, Hybrid(Multimodel), Signal Processing
     
