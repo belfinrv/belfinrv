@@ -42,7 +42,7 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - **Bachelor’s in Computer Science Engineering**, Karunya University, India, April 2009
 
 ## Certifications
-- **fMRI I ** - [Johns Hopkins University, USA, 2022](https://www.coursera.org/account/accomplishments/verify/TBMYM5K6LFP2)
+- **fMRI I** - [Johns Hopkins University, USA, 2022](https://www.coursera.org/account/accomplishments/verify/TBMYM5K6LFP2)
 - **fMRI II** - [Johns Hopkins University, USA, 2022](https://www.coursera.org/account/accomplishments/verify/TBMYM5K6LFP2)
 - **Synapses, Neurons, and Brains** - [The Hebrew University of Jerusalem, Israel, 2020](https://www.coursera.org/account/accomplishments/records/PG8DN2AY6PG8)
 - **Introduction to Neuro-hacking In R** - [Johns Hopkins University, USA, 2020](https://www.coursera.org/account/accomplishments/verify/XVUM9KYJGG6E)
