@@ -35,9 +35,10 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - [Epilepsy brain components classifier](#)
   - **Role:** Design, Development, Lead
   - **Key Areas:** fMRI time series images, Computer Vision,  ML models, DL Models, Hybrid(Multimodel), Signal Processing
-- [Report Generator RAG LLM model (Physician draft report after image classification)](#)
+- [Report Generator RAG LLM Model (Physician Draft Report After Image Classification)](#)
   - **Role:** Design, Development, Lead
-  - **Key Areas:** fMRI time series images, Computer Vision, RAG, Med-PaLM, Hybrid(Multimodel), Signal Processing
+  - **Key Areas:** fMRI Time Series Images, Computer Vision, RAG, Med-PaLM, Hybrid (Multimodal), Signal Processing
+
     
 ### Karunya University | Computer Scientist/ Professor
 **July 2013 – March 2022, India**
