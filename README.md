@@ -15,7 +15,7 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - **Programming Languages:** Python (NumPy, Pandas, Matplotlib, TensorFlow, Keras), R, MATLAB
 - **Frameworks and Libraries:** SciPy, networkX, pytorch, NLTK, igraph, muxviz, multinet
 - **Technologies:** Unix scripting, SLURM, Oracle PL/SQL, Power BI, Azure, MLOPs, DevOps
-- **AI Models:** Large Language Models (LLMs) including transformers, GPT, BERT, and applications using hugging face, LangChain
+- **AI Models:** Multimodal Deep Learning Models in Computer Vision and Time Series data, Large Language Models (LLMs) including Transformers, GPT, BERT, and applications using Hugging Face, LangChain.
 
 
 **Proficient:**
@@ -26,8 +26,9 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 ## AI Projects
 ### University of North Carolina | Sr. Computer Scientist
 **March 2022 – Present, Chapel Hill, NC, USA**
-- Led the development of Alzheimer’s Biomarker Diagnostic System, enhancing diagnostic accuracy using advanced network neuroscience and multilayer networks.
-- Developed Chronic pain diagnostic models using ML/DL techniques, significantly improving the speed and accuracy of chronic pain identification.
+- Led the development of [Alzheimer’s Biomarker Diagnostic System](#), enhancing diagnostic accuracy using advanced network neuroscience and multilayer networks.
+- Developed [Chronic Pain Diagnostic Models](#) using ML/DL techniques, significantly improving the speed and accuracy of chronic pain identification.
+
 
 ### Karunya University | Computer Scientist/ Professor
 **July 2013 – March 2022, India**
