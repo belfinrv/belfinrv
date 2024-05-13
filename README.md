@@ -15,6 +15,8 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - **Programming Languages:** Python (NumPy, Pandas, Matplotlib, TensorFlow, Keras), R, MATLAB
 - **Frameworks and Libraries:** SciPy, networkX, pytorch, NLTK, igraph, muxviz, multinet
 - **Technologies:** Unix scripting, SLURM, Oracle PL/SQL, Power BI, Azure, MLOPs, DevOps
+- **AI Models:** Large Language Models (LLMs) including transformers, GPT, BERT, and applications using hugging face, LangChain
+
 
 **Proficient:**
 - **Programming Languages:** Java, JavaScript, C#
