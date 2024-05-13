@@ -21,13 +21,13 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - **Databases:** Oracle 12C, Neo4J, Microsoft SQL Server
 - **Tools:** Google API's, Tableau, Big Query, GIT
 
-## Work Experience
+## AI Projects
 ### University of North Carolina | Sr. Computer Scientist
 **March 2022 – Present, Chapel Hill, NC, USA**
 - Led the development of Alzheimer’s Biomarker Diagnostic System, enhancing diagnostic accuracy using advanced network neuroscience and multilayer networks.
 - Developed Chronic pain diagnostic models using ML/DL techniques, significantly improving the speed and accuracy of chronic pain identification.
 
-### Karunya University | Sr. Computer Scientist/ Professor
+### Karunya University | Computer Scientist/ Professor
 **July 2013 – March 2022, India**
 - Innovated social network algorithms enhancing seed selection and community detection, referred by global researchers.
 - Developed a COVID-19 Peak Prediction algorithm and a Graph-based Chatbot for Cancer patients, significantly aiding in pandemic response and patient care.
@@ -42,9 +42,10 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - **Bachelor’s in Computer Science Engineering**, Karunya University, India, April 2009
 
 ## Certifications
-- **fMRI I & II** - Johns Hopkins University, USA, 2022
-- **Synapses, Neurons, and Brains** - The Hebrew University of Jerusalem, Israel, 2020
-- **Introduction to Neuro-hacking In R** - Johns Hopkins University, USA, 2020
-- **Data Science Toolbox** - Johns Hopkins University, USA, 2018
-- **Oracle Certified Professional Java SE 6** - Oracle India, 2013
+- **fMRI I ** - [Johns Hopkins University, USA, 2022](https://www.coursera.org/account/accomplishments/verify/TBMYM5K6LFP2)
+- **fMRI II** - [Johns Hopkins University, USA, 2022](https://www.coursera.org/account/accomplishments/verify/TBMYM5K6LFP2)
+- **Synapses, Neurons, and Brains** - [The Hebrew University of Jerusalem, Israel, 2020](https://www.coursera.org/account/accomplishments/records/PG8DN2AY6PG8)
+- **Introduction to Neuro-hacking In R** - [Johns Hopkins University, USA, 2020](https://www.coursera.org/account/accomplishments/verify/XVUM9KYJGG6E)
+- **Fundamental Neuroscience for Neuroimaging** - [Johns Hopkins University, USA, 2022](https://www.coursera.org/account/accomplishments/verify/P3AMPDXF28QM)
+- **Oracle Certified Professional Java SE 6** - [Oracle India, 2013](#)
 
