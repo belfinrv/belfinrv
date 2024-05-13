@@ -31,9 +31,10 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
   - **Key Areas:** PET Scans, Statistical Analysis, Multilayer Network Science
 - [Chronic Pain Diagnostic Models](#)
   - **Role:** Design, Development, Mentoring
-  - **Key Areas:** fMRI time series images, Computer Vision,  ML models, Hyper Parameter Tuning, DL Models
-
-
+  - **Key Areas:** fMRI time series images, Computer Vision,  ML models, Hyper Parameter Tuning, DL Models, Signal Processing
+- [Epilepsy brain components classifier](#)
+  - **Role:** Design, Development, Lead
+  - **Key Areas:** fMRI time series images, Computer Vision,  ML models, DL Models, Hybrid(Multimodel), Signal Processing
 
 ### Karunya University | Computer Scientist/ Professor
 **July 2013 – March 2022, India**
