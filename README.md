@@ -39,15 +39,17 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
   - **Role:** Design, Development, Lead
   - **Key Areas:** fMRI Time Series Images, Computer Vision, RAG, Med-PaLM, Hybrid (Multimodal), Signal Processing
 
-    
-### Karunya University | Computer Scientist/ Professor
-**July 2013 – March 2022, India**
 - Innovated social network algorithms enhancing seed selection and community detection, referred by global researchers.
 - Developed a COVID-19 Peak Prediction algorithm and a Graph-based Chatbot for Cancer patients, significantly aiding in pandemic response and patient care.
 
-### Wipro Technologies | Software Engineer (Oracle EBS/ERP Consultant)
-**January 2011 – July 2013, India**
+
 - Led major Oracle R12 upgrades and implementations, improving system efficiency and user experience across various modules.
+  
+## Work Experiances
+**University of North Carolina | Sr. Computer Scientist |March 2022 – Present, Chapel Hill, NC, USA**
+**Karunya University | Computer Scientist/ Professor | July 2013 – March 2022, India**
+**Wipro Technologies | Software Engineer (Oracle EBS/ERP Consultant) | January 2011 – July 2013, India**
+**Robert Bosch | Software Engineer ( C# Application Developer) | December 2008 - April 2009**
 
 ## Education
 - **Ph.D. in Computer Science (Graph Analytics)**, Karunya University, India, May 2020
