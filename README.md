@@ -1,7 +1,7 @@
 # Belfin Robinson
 
 ## About Me
-Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experience specializing in Data Analytics, Neuroinformatics, Network Neuroscience, and AI-driven innovations. I am passionate about leveraging advanced algorithms and models to solve complex challenges in technology and healthcare.
+Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experience specializing in Data Analytics, Neuroinformatics, Network Neuroscience, and AI-driven innovations. I am passionate about using advanced algorithms and models to address complex challenges across technology and various domains.
 
 📞 **Contact:** 336.264.0909  
 📧 **Email:** [researchbelfin@gmail.com](mailto:researchbelfin@gmail.com)  
