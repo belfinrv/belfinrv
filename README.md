@@ -8,7 +8,7 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 🌍 **Location:** Chapel Hill, NC  
 🔗 **LinkedIn:** [linkedin.com/in/belfin](https://linkedin.com/in/belfin)  
 🔗 **GitHub:** [github.com/belfinrv](https://github.com/belfinrv)  
-🔗 **Google Scholar:** [Profile](#)  
+🔗 **Google Scholar:** [Profile](https://scholar.google.com/citations?user=hXKhuLYAAAAJ&hl=en&authuser=1) 
 
 ## Technical Skills
 **Current:**
