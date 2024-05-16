@@ -39,7 +39,7 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - [Report Generator RAG LLM Model (Physician Draft Report After Image Classification)](#)
   - **Role:** Design, Development, Lead
   - **Key Areas:** fMRI Time Series Images, Computer Vision, RAG, Med-PaLM, Hybrid (Multimodal), Signal Processing
-- [Overlapping Community Detection (4S Algorithm)](#)
+- [Overlapping Community Detection (4S Algorithm)](https://github.com/belfinrv/4SAlgorithm)
   - Innovated social network algorithms enhancing seed selection and community detection, referred by global researchers.
 
 - [Covid'19 peak estimation (Predictive model)](https://github.com/belfinrv/Covid19Peak)
