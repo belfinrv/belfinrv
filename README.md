@@ -38,10 +38,11 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - [Report Generator RAG LLM Model (Physician Draft Report After Image Classification)](#)
   - **Role:** Design, Development, Lead
   - **Key Areas:** fMRI Time Series Images, Computer Vision, RAG, Med-PaLM, Hybrid (Multimodal), Signal Processing
+- [Overlapping Community Detection (4S Algorithm)](#)
+  - Innovated social network algorithms enhancing seed selection and community detection, referred by global researchers.
 
-- Innovated social network algorithms enhancing seed selection and community detection, referred by global researchers.
-- Developed a COVID-19 Peak Prediction algorithm and a Graph-based Chatbot for Cancer patients, significantly aiding in pandemic response and patient care.
-
+- [Covid'19 peak estimation (Predictive model)](#)
+  - Developed a COVID-19 Peak Prediction algorithm and a Graph-based Chatbot for Cancer patients, significantly aiding in pandemic response and patient care.
 
 - Led major Oracle R12 upgrades and implementations, improving system efficiency and user experience across various modules.
   
@@ -56,6 +57,12 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - **Master’s in Computer Science Engineering**, Anna University, India, May 2011
 - **Bachelor’s in Computer Science Engineering**, Karunya University, India, April 2009
 
+## Research reach across globe
+
+## Top Conferences
+
+## Invited Talks
+
 ## Certifications
 - **fMRI I** - [Johns Hopkins University, USA, 2022](https://www.coursera.org/account/accomplishments/verify/TBMYM5K6LFP2)
 - **fMRI II** - [Johns Hopkins University, USA, 2022](https://www.coursera.org/account/accomplishments/verify/TBMYM5K6LFP2)
@@ -63,4 +70,8 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - **Introduction to Neuro-hacking In R** - [Johns Hopkins University, USA, 2020](https://www.coursera.org/account/accomplishments/verify/XVUM9KYJGG6E)
 - **Fundamental Neuroscience for Neuroimaging** - [Johns Hopkins University, USA, 2022](https://www.coursera.org/account/accomplishments/verify/P3AMPDXF28QM)
 - **Oracle Certified Professional Java SE 6** - [Oracle India, 2013](eCertificate.pdf)
+
+## Awards
+
+
 
