@@ -6,9 +6,10 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 📞 **Contact:** 336.264.0909  
 📧 **Email:** [researchbelfin@gmail.com](mailto:researchbelfin@gmail.com)  
 🌍 **Location:** Chapel Hill, NC  
-🔗 [**LinkedIn:**] (https://linkedin.com/in/belfin)  
-🔗 [**GitHub:**] (https://github.com/belfinrv)  
-🔗 [**Google Scholar:**] (https://scholar.google.com/citations?user=hXKhuLYAAAAJ&hl=en&authuser=1) 
+🔗 [**LinkedIn**](https://linkedin.com/in/belfin)  
+🔗 [**GitHub**](https://github.com/belfinrv)  
+🔗 [**Google Scholar**](https://scholar.google.com/citations?user=hXKhuLYAAAAJ&hl=en&authuser=1)  
+
 
 ## Technical Skills
 **Current:**
