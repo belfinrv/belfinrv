@@ -48,8 +48,8 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
   - Developed a COVID-19 Peak Prediction algorithm and a Graph-based Chatbot for Cancer patients, significantly aiding in pandemic response and patient care.
     
  - [Mental Health and Sleep Quality in India During COVID-19 Lockdown](https://github.com/belfinrv/MentalHealthGAD)
-  - **Role:**  Analysis
-  - **Key Areas:** generalized anxiety disorder (GAD), perceived stress scale (PSS), Social research, Data Analysis 
+   - **Role:**  Analysis
+   - **Key Areas:** generalized anxiety disorder (GAD), perceived stress scale (PSS), Social research, Data Analysis 
 
 
 - Led major Oracle R12 upgrades and implementations, improving system efficiency and user experience across various modules.
