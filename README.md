@@ -42,7 +42,7 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - [Overlapping Community Detection (4S Algorithm)](#)
   - Innovated social network algorithms enhancing seed selection and community detection, referred by global researchers.
 
-- [Covid'19 peak estimation (Predictive model)](#)
+- [Covid'19 peak estimation (Predictive model)](https://github.com/belfinrv/Covid19Peak)
   - Developed a COVID-19 Peak Prediction algorithm and a Graph-based Chatbot for Cancer patients, significantly aiding in pandemic response and patient care.
 
 - Led major Oracle R12 upgrades and implementations, improving system efficiency and user experience across various modules.
