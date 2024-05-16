@@ -39,20 +39,17 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - [Report Generator RAG LLM Model (Physician Draft Report After Image Classification)](#)
   - **Role:** Design, Development, Lead
   - **Key Areas:** fMRI Time Series Images, Computer Vision, RAG, Med-PaLM, Hybrid (Multimodal), Signal Processing
- 
-
 - [Overlapping Community Detection (4S Algorithm)](https://github.com/belfinrv/4SAlgorithm)
-  - Innovated social network algorithms enhancing seed selection and community detection, referred by global researchers.
+  - **Role:** Design, Development
+  - **Key Areas:** Graph algorithm, graph theory, graph clustering, method development, benchmark evaluation
 
 - [Covid'19 peak estimation (Predictive model)](https://github.com/belfinrv/Covid19Peak)
-  - Developed a COVID-19 Peak Prediction algorithm and a Graph-based Chatbot for Cancer patients, significantly aiding in pandemic response and patient care.
+    - **Role:** Design, Development, Lead
+    - **Key Areas:** Machine learning, Data Analytics, Social research, Prediction, Covid '19, Logistic Regression, SEIR Epidemic Model
     
  - [Mental Health and Sleep Quality in India During COVID-19 Lockdown](https://github.com/belfinrv/MentalHealthGAD)
    - **Role:**  Analysis
    - **Key Areas:** generalized anxiety disorder (GAD), perceived stress scale (PSS), Social research, Data Analysis 
-
-
-- Led major Oracle R12 upgrades and implementations, improving system efficiency and user experience across various modules.
   
 ## Work Experiances
 -  **University of North Carolina | Sr. Computer Scientist | March 2022 – Present, Chapel Hill, NC, USA**
