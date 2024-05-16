@@ -58,8 +58,8 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - **Master’s in Computer Science Engineering**, Anna University, India, May 2011
 - **Bachelor’s in Computer Science Engineering**, Karunya University, India, April 2009
 
-## Research reach across globe
-
+## Research impact across globe
+![research Impact](map.svg)
 ## Top Conferences
 
 ## Invited Talks
