@@ -50,6 +50,7 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 ## Work Experiances
 -  **University of North Carolina | Sr. Computer Scientist | March 2022 – Present, Chapel Hill, NC, USA**
 -  **Karunya University | Computer Scientist/ Professor | July 2013 – March 2022, India**
+-  **Wroclaw University of Science and Technology| Computer Scientist/ Visiting Researcher | May 2018 – July 2018, Poland**
 -  **Wipro Technologies | Software Engineer (Oracle EBS/ERP Consultant) | January 2011 – July 2013, India**
 -  **Robert Bosch | Software Engineer ( C# Application Developer) | December 2008 - April 2009**
 
@@ -59,7 +60,8 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - **Bachelor’s in Computer Science Engineering**, Karunya University, India, April 2009
 
 ## Research impact across globe
-![research Impact](map.svg)
+<img src="map.svg" alt="Research Impact" width="500" height="400">
+
 ## Top Conferences
 
 ## Invited Talks
