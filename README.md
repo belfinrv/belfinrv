@@ -67,9 +67,9 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 <img src="map.svg" alt="Research Impact" width="500" height="400">
 
 ## Top Conferences
-- **NetSci 2018, Paris**
-- **Sunbelt 2018, The Netherlands**
-- **NetSci 2022, Washington DC**
+- **NetSci 2018, Paris, France**
+- **Sunbelt 2018, Utrecht, The Netherlands**
+- **NetSci 2022, Washington DC, USA**
 
 ## Invited Talks
 
