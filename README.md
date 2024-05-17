@@ -30,7 +30,7 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - [Alzheimer’s Biomarker Diagnostic System](https://github.com/belfinrv/AlzheimerBioMarker)
   - **Role:** Design, Development, Lead
   - **Key Areas:** PET Scans, Statistical Analysis, Multilayer Network Science
-- [Chronic Pain Diagnostic Models](#)
+- [Chronic Pain Diagnostic Models](https://github.com/belfinrv/CronicpainMachineLearningfMRI)
   - **Role:** Design, Development, Mentoring
   - **Key Areas:** fMRI time series images, Computer Vision,  ML models, Hyper Parameter Tuning, DL Models, Signal Processing
 - [Epilepsy brain components classifier](https://github.com/belfinrv/MultimodalDeepLearningClass)
