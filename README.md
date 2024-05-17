@@ -93,5 +93,5 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 
 ## Awards
 
--**"Outstanding Achievement Award 2019"** for Teaching and Research Contributions in a conference held at NUS, Singapore.
+- **"Outstanding Achievement Award 2019"** for Teaching and Research Contributions in a conference held at NUS, Singapore.
 
