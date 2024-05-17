@@ -73,6 +73,16 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 
 ## Invited Talks
 
+| Organization/Institution | Essential Role              |
+|--------------------------|-----------------------------|
+| SRM Institute of Science and Technology, India | Keynote Speaker |
+| Manipal Institute of Technology, India | Guest Speaker |
+| Vellore Institute of Technology, India | Workshop Trainer |
+| Jayaraj Annapackaiam CSI College of Engineering, India | Guest Speaker - Webinar |
+| SNS College of Technology | Guest Speaker - Seminar |
+| Mangalam College of Engineering | Workshop Trainer |
+| Stella Mary's College of Engineering | Guest Speaker - Webinar |
+
 ## Certifications
 - **fMRI I** - [Johns Hopkins University, USA, 2022](https://www.coursera.org/account/accomplishments/verify/TBMYM5K6LFP2)
 - **fMRI II** - [Johns Hopkins University, USA, 2022](https://www.coursera.org/account/accomplishments/verify/TBMYM5K6LFP2)
