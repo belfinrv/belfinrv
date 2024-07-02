@@ -25,7 +25,7 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 - **Tools:** Google API's, Tableau, Big Query, GIT
 
 ## AI Projects
-### University of North Carolina | Sr. Computer Scientist
+### University of North Carolina | Computer Scientist
 **March 2022 – Present, Chapel Hill, NC, USA**
 - [Alzheimer’s Biomarker Diagnostic System](https://github.com/belfinrv/AlzheimerBioMarker)
   - **Role:** Design, Development, Lead
@@ -52,7 +52,7 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
    - **Key Areas:** generalized anxiety disorder (GAD), perceived stress scale (PSS), Social research, Data Analysis 
   
 ## Work Experiances
--  **University of North Carolina | Sr. Computer Scientist | March 2022 – Present, Chapel Hill, NC, USA**
+-  **University of North Carolina | Computer Scientist | March 2022 – Present, Chapel Hill, NC, USA**
 -  **Karunya University | Computer Scientist/ Professor | July 2013 – March 2022, India**
 -  **Wroclaw University of Science and Technology| Computer Scientist/ Visiting Researcher | May 2018 – July 2018, Poland**
 -  **Wipro Technologies | Software Engineer (Oracle EBS/ERP Consultant) | January 2011 – July 2013, India**
