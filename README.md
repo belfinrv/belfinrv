@@ -27,6 +27,9 @@ Hello! I'm Belfin, a seasoned Computer Scientist with over 12 years of experienc
 ## AI Projects
 ### University of North Carolina | Computer Scientist
 **March 2022 – Present, Chapel Hill, NC, USA**
+- [Nutrition Chat Assistant Using RAG-LLMs](https://github.com/belfinrv/LLM-RAG)
+  - **Role:** Design, Development, Lead
+  - **Key Areas:** Embedding, PDF source, LLama 3.2, Milvus, Retrieval-Augmented Generation (RAG)
 - [Alzheimer’s Biomarker Diagnostic System](https://github.com/belfinrv/AlzheimerBioMarker)
   - **Role:** Design, Development, Lead
   - **Key Areas:** PET Scans, Statistical Analysis, Multilayer Network Science
